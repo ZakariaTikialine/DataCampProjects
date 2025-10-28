@@ -26,6 +26,7 @@ The **Associate Data Scientist** track combines theory and hands-on projects in:
 ---
 
 ## 📂 Repository Structure
+``` bash 
 📦 datacamp-associate-ds-track
 ┣ 📁 project_name_1/
 ┃ ┣ 📓 notebook.ipynb
@@ -34,7 +35,7 @@ The **Associate Data Scientist** track combines theory and hands-on projects in:
 ┃ ┣ 📓 notebook.ipynb
 ┃ ┗ 📄 README.md
 ┗ 📄 README.md
-
+```
 Each folder corresponds to a unique project from the track — feel free to explore them individually.
 
 ---
