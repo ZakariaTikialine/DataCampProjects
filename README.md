@@ -52,7 +52,7 @@ This repo serves to:
 **Zakaria TIKIALINE**  
 📍 Data Science & AI Enthusiast & Student  
 📧 zakariatikia@gmail.com / z_tikialine@estin.dz 
-🔗 [LinkedIn / Portfolio / GitHub Profile Link]
+🔗 www.zakaria-tikialine.tech
 
 ---
 
